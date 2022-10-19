@@ -11,6 +11,8 @@ Here are some ideas to get you started:
 
 * ✍️ [Blogger](https://xcliu.cc)
 
+* 🏆 [LeetCode](https://leetcode.cn/u/sai-bo-peng-ke/)
+
 * 🏃 Table Tennis / Cycling 
 
-* 🎮 LOL / OW
+* 🎮 LOL / OW2
