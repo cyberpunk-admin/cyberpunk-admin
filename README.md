@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 * ⚡ Golang / Python
 
-* ✍️ [Blogger](https://xcliu.cc)
+* ✍️ [Blogger](https://liuxc.me)
 
 * 🏆 [LeetCode](https://leetcode.cn/u/sai-bo-peng-ke/)
 
