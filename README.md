@@ -9,9 +9,9 @@ Here are some ideas to get you started:
 
 * ⚡ Golang / Python
 
-* ✍️ [Blogger](https://liuxc.me)
+* ✍️ [我的博客](https://liuxc.me)
 
-* 🏆 [LeetCode](https://leetcode.cn/u/sai-bo-peng-ke/)
+* 🏆 [LeetCode刷题记录](https://leetcode.cn/u/sai-bo-peng-ke/)
 
 * 🏃 Table Tennis / Cycling 
 
