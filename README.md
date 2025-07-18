@@ -1,18 +1,24 @@
-### Hi there 👋
+# Hi there 👋, I'm **cyberpunk-admin**!
 
-<!--
-**cyberpunk-admin/cyberpunk-admin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-Here are some ideas to get you started:
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200" align="right" alt="Coding Cat"/>
 
-![](https://github-readme-stats.vercel.app/api?username=cyberpunk-admin&show_icons=true&line_height=21&show_icons=true&theme=vue&hide_border=true)
+Welcome to my GitHub! 🚀  
+Here you'll find my code explorations, fun projects, and experiments with new tech.  
+I love learning, building, and sharing—let’s make the web more awesome together!
 
-* ⚡ Golang / Python
+---
 
-* ✍️ [我的博客](https://liuxc.me)
+## 🌟 About Me
 
-* 🏆 [LeetCode刷题记录](https://leetcode.cn/u/sai-bo-peng-ke/)
+- 😸 Coding enthusiast, tech lover, lifelong learner
+- 🛠️ Main tech stack: **[Go/Python/Kubernetes/AI]**
+- 🎨 Hobbies: [drawing, gaming, music]
+- 🏄‍♂️ Motto: “Stay curious. Keep coding. Have fun!”
 
-* 🏃 Table Tennis / Cycling 
+## 📫 How to reach me
 
-* 🎮 LOL / OW2
+- Blog/Website: [liuxc.me](https://liuxc.me)
+- Email: [liuxc784637889@gmail.com](mailto:liuxc784637889@gmail.com)
+---
+
+_Thanks for visiting! Have a great day!_ 😄🎉
